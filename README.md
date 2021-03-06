@@ -1,2 +1,2 @@
 # Quick_Sort
-Check out Description.ipynb file.
+Check out Quick_Sort.ipynb file.
